@@ -2,7 +2,7 @@
 
 # Hello-world
 
-> Description the project.
+> A project to implement linters and use GitHub flows.
 
 ## Built With
 
